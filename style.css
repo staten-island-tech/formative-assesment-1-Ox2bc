@@ -1,0 +1,7 @@
+div{
+    text-transform: uppercase;
+    background-image: url(media/bgimg.jpg);
+    background-repeat: repeat-x;
+    color: #caffee;
+    height: 100vh;
+}
